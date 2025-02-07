@@ -11,13 +11,13 @@ const data = [
 	{
 		id: 2,
 		title: 'Phone',
-		description: '08052039920',
+		description: '123456789',
 		icon: <FaPhoneAlt />,
 	},
 	{
 		id: 3,
 		title: 'Email Address',
-		description: 'cigboagu@gmail.com',
+		description: 'c@gmail.com',
 		icon: <FaEnvelopeOpen />,
 	},
 ];
