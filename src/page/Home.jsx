@@ -8,6 +8,7 @@ import { BsFillArrowUpSquareFill } from 'react-icons/bs';
 const Home = () => {
 	return (
 		<>
+			
 			<Nav />
 			<main className='Home'>
 				<div className='home-container'>
